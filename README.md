@@ -12,12 +12,12 @@ Create a RESTful API for managing tasks using Node.js, Express.js, and MongoDB.
 Create a MongoDB schema/model for tasks with fields such as title, description, status, and due date.
 
 ## API Endpoints:
-Create API endpoints for the following operations:
-Create a Task: POST /api/tasks
-Read all Tasks: GET /api/tasks
-Read a Task by ID: GET /api/tasks/:taskId
-Update a Task by ID: PUT /api/tasks/:taskId
-Delete a Task by ID: DELETE /api/tasks/:taskId
+1. Create API endpoints for the following operations:
+2. Create a Task: POST /api/tasks
+3. Read all Tasks: GET /api/tasks
+4. Read a Task by ID: GET /api/tasks/:taskId
+5. Update a Task by ID: PUT /api/tasks/:taskId
+6. Delete a Task by ID: DELETE /api/tasks/:taskId
 
 ## Validation:
 Implement basic validation for incoming data (e.g., required fields, data types).
